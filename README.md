@@ -2,8 +2,11 @@
 
 A small applicant tracking system: manage candidates and jobs, move people through hiring stages on a drag-and-drop board, search and filter applicants, and watch pipeline metrics on a dashboard.
 
-- **Live app:** _added after deploy_
-- **Demo video:** _added after recording_
+- **Live app:** https://arnav-applicant-tracker.vercel.app
+- **Repository:** https://github.com/2arnav4/applicant-tracking-system
+- **Demo video:** _link to be added_
+
+The live instance is seeded with demo data (7 jobs, 140 candidates) and has no login, so anyone with the link can edit it.
 
 ## Features
 
