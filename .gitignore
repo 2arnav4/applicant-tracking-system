@@ -40,3 +40,8 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 !.env.example
+
+# local AI-agent tooling (installed by the Vercel CLI)
+.agents/
+.claude/
+skills-lock.json
