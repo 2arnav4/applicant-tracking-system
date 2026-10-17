@@ -73,7 +73,7 @@ describe("dashboard helpers", () => {
 
 describe("initials", () => {
   it.each([
-    ["Arnav Singla", "AS"],
+    ["Priya Sharma", "PS"],
     ["madonna", "M"],
     ["Jean Claude Van Damme", "JD"],
     ["   ", "?"],
